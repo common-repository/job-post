@@ -1,0 +1,59 @@
+body, button, input, select, textarea{
+	font-size: 15px!important;	
+}
+.post_name{
+	text-align: center;
+    font-size: 20px;
+    color: #fff;
+}
+.title_post{
+	background-color: #aaa;
+}
+.post_desc{
+	border-bottom: 2px dashed #E1E1E1;
+    padding: 10px;
+	color: #666;
+}
+hr{
+	margin:18px 0 !important;
+}
+.error{
+	color: red;
+/*	border:1px solid red !important;*/
+}
+h4{
+	padding:5px;
+	background-color:rgba(101, 177, 181, 0.42);
+	font-family: monospace !important;
+}
+#application_form div, #application_form2 div {
+	padding: 10px !important;
+}
+label{
+	display: inline-block !important;
+}
+input[type="text"], input[type="email"], input[type="url"], input[type="password"], input[type="search"], input[type="tel"], input[type="number"], textarea{
+	padding: 1em 0.4375em !important;
+}
+li {
+    line-height: 3em !important;
+}
+h3.p_title{
+	color: #172465;
+}
+.pg_main span,.pg_main a{
+	padding: 5px;
+    border: 1px solid #00A0D2;
+	text-decoration: none;
+}
+.pg_main{
+	height: 60px;
+}
+h4{
+	padding: 5px !important;
+}
+img.cap{
+	padding: 5px;
+}
+
+    
